@@ -5,7 +5,7 @@ import '../src/index.css'
 function App(){
   return(
     <>
-    <div className="Text demo">
+    <div className="Text">
       <Icon/>
       <Content/>
       </div>
