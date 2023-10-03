@@ -1,0 +1,15 @@
+.middle {
+
+    display: flex;
+    flex-direction: row;
+    padding: 0 70px;
+    list-style: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+.middlelinks {
+
+    padding: 0 30px;
+}
