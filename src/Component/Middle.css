@@ -1,7 +1,30 @@
-.foggle{
-    background-image: url("./Image/heroimgmin.webp");
-    background-repeat: no-repeat;
-    background-color: aqua;
-
-    background-size: 50vh;
+.medium-text{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 30px 90px;
+    background-color: rgb(247 247 247);
+   
+ .head{
+    font-size: 80px;
+    line-height: 1;
+    }   
+    .para{
+        font-size: 27px;
+    color: rgba(29,29,31,.8);
 }
+.content-mass{
+    font-size: 18px;
+  background: #FF4419;
+  color: #fff !important;
+  padding: 13px 24px;
+  text-decoration: none;
+}
+}
+.data{
+    background-image: url('../Component/Image/heroimgmin.webp');
+    background-repeat: no-repeat;
+    margin: 0 80px;
+    height: 100%;
+    width: 100%;
+ }
+ 
