@@ -3,6 +3,7 @@ import Icon from "./Component/Header";
 import Content from "./Component/Content";
 import '../src/index.css'
 import Middle from "./Component/Middle ";
+import Metal from "./Component/Metal";
 function App(){
   return(
     <>
@@ -10,6 +11,7 @@ function App(){
       <Icon/>
       <Content/>
       <Middle/>
+      <Metal/>
       </div>
     </>
   )

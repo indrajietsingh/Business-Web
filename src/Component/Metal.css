@@ -1,0 +1,16 @@
+.item{
+    text-align: center;
+    background-color: rgb(247 247 247);
+    height: 100%;
+}
+.manner{
+    font-weight: 500;
+    font-size: 139px;
+    line-height: 1;
+    padding: 30px 40px;
+}
+.row{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    margin: 38px -76px;
+}

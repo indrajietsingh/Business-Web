@@ -18,15 +18,15 @@ function Middle(){
         </div>
         <div className="main">
             pricing
-            <span>for</span>
+            <span className="top">for</span>
             <span>
-                <label id="website">
-                    <input type="radio" name="plan" value="website"></input>website</label>
+                <label className="website" style={{margin: "0px 3px",backgroundColor:"black", color:"white"}}>website</label>
             </span>
             <span>
-            <label id="Business & Ecommerce">
-                <input type="radio" name="perfect" value="Business & Ecommerce"></input></label>
-                Business & Ecommerce</span>
+            <label className="website">
+            
+                Business & Ecommerce </label>
+                </span>
         </div>
         </>
     )
