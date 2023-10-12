@@ -12,5 +12,12 @@
 .row{
     display: grid;
     grid-template-columns: 33% 33% 33%;
-    margin: 38px -76px;
+    /* margin: 38px -76px; */
+    padding: 0 154px;
+    font-size: 30px;
+    line-height: 2;
+    list-style-type:none;
+    text-align: left;
 }
+
+    
