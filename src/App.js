@@ -4,6 +4,7 @@ import Content from "./Component/Content";
 import '../src/index.css'
 import Middle from "./Component/Middle ";
 import Metal from "./Component/Metal";
+import Item from "./Component/Item";
 function App(){
   return(
     <>
@@ -12,6 +13,7 @@ function App(){
       <Content/>
       <Middle/>
       <Metal/>
+      <Item/>
       </div>
     </>
   )
