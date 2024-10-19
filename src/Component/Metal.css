@@ -1,0 +1,36 @@
+.item{
+    text-align: center;
+    background-color: rgb(247 247 247);
+    height: 100%;
+}
+.manner{
+    font-weight: 500;
+    font-size: 139px;
+    line-height: 1;
+    padding: 30px 40px;
+}
+.row{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    /* margin: 38px -76px; */
+    padding: 0 154px;
+    font-size: 20px;
+    line-height: 2;
+    list-style-type:none;
+    text-align: left;
+}
+.para-code{
+    text-align: center;
+    font-size: 18px;
+    color: #000;
+    border: 2px solid #000;
+    border-radius: 4px;
+    width: 196px;
+    height: 48px;
+    line-height: 46px;
+    margin: 10px 580px;
+}
+a{
+    text-decoration: none;
+}
+    

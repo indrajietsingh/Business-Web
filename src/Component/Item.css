@@ -1,0 +1,24 @@
+.lenovo{
+    background-image: url("./Image/back.webp");
+    background-color: rgba(235,236,238,.77);;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 0 219px;
+   
+}
+.headline{
+    font-weight: bold;
+}
+.wrapper{
+    color: #5E5A5A;
+    border: 2px solid white;
+    font-weight: 500;
+    letter-spacing: 0.3rem;
+    width: 218px;
+    padding: 0px 23px;
+    line-height: 3rem;
+    background-color: white;
+}

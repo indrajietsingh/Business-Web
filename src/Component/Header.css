@@ -28,7 +28,7 @@
 .text {
   font-size: 18px;
   background: #FF4419;
-  color: #fff;
+  color: #fff !important;
   padding: 6px 24px;
 
 }
