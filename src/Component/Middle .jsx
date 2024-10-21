@@ -24,8 +24,7 @@ function Middle(){
             </span>
             <span>
             <label className="website">
-            
-                Business & Ecommerce </label>
+            Business & Ecommerce </label>
                 </span>
         </div>
         </>
